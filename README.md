@@ -24,7 +24,7 @@ Após o passo anterior você pode clonar o repositório.
 
 `git@github.com:Anderson-Andre-P/TaskList.git`
 
-Abra um terminal no seu computador dentro da pasta onde você clonou o repositório e comece a aplicação web.
+Abra um terminal no seu computador dentro da pasta onde você clonou o repositório e comece a aplicação web com um dos comandos abaixo.
 
 1. `yarn` ou `npm install`
 2. `yarn dev` ou `npm run dev`
